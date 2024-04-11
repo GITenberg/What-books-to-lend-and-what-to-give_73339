@@ -1,0 +1,33 @@
+_repo: What-books-to-lend-and-what-to-give_73339
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2024-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73339'
+language: en
+pgterms:marc904: https://archive.org/details/whatbookstolendw00yong/
+pgterms:marc905: 20230501075643yonge
+pgterms:marc906: '1887'
+pgterms:marc907: gb
+production_note: Aaron Adrignola and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bNational Society''s Depository, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: What books to lend and what to give
+url: http://www.gutenberg.org/ebooks/73339

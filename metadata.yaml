@@ -1,5 +1,8 @@
 _repo: What-books-to-lend-and-what-to-give_73339
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73339-h/images/cover.jpg
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/945
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73339#What-books-to-lend-and-what-to-give
 gutenberg_issued: '2024-04-05'
 gutenberg_type: Text
 identifiers:
